@@ -8,3 +8,6 @@ gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
 
 ## Running in development
 `gatsby develop`
+
+## Running live
+Site hosted at http://my-gatsby-starter.surge.sh/
